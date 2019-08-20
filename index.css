@@ -34,13 +34,12 @@ a{
 .main{
 	float:right;
 	width:80%;
-}
-.main{
 	color:#696969;
 }
 .main .article{
 	margin-right:30%;
 	background:#FFF8DC;
+	background-size:full;
 	padding:20px 80px;
 	box-shadow:0 0 3px 2px rgba(0,0,0,.7);
 }
