@@ -1,9 +1,13 @@
+html,body{
+	width:100%;
+	height:100%;
+}
 body{
 	line-height:1.7;
 	background:#444444;
 }
 a,body{
-	color:#FFFFFF;
+	color:#FFFFFF;		<!--白色-->
 }
 a{
 	text-decoration:none;
@@ -34,9 +38,11 @@ a{
 .main{
 	float:right;
 	width:80%;
-	color:#696969;
+	height:100%;
+	color:#696969;		<!--浅黑色-->
 }
 .main .article{
+	height:100%;
 	margin-right:30%;
 	background:#FFF8DC;
 	background-size:full;
